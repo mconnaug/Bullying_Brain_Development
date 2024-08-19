@@ -1,11 +1,3 @@
-I'll help you create a `README.md` file based on the contents of the script you provided. I'll first read the script to understand its purpose and then draft a suitable README.
-
-Let me start by reviewing the script.
-
-Based on the content of the script, here's a draft for the `README.md` file:
-
----
-
 # Longitudinal Structural MRI Analysis: Statistical Scripts
 
 ## Overview
@@ -30,6 +22,10 @@ install.packages(c("gamm4", "mediation", "tidyverse", "lmerTest", "knitr", "lava
 ```
 
 ## Data
+
+Raw Data Available:
+
+https://github.com/imagen2/imagen_mri
 
 The dataset used in this study is expected to be loaded from an external file (e.g., `IMAGEN_MASTER.xlsx`). Ensure that the dataset is correctly formatted and located in the appropriate directory as specified in the script.
 
@@ -108,6 +104,3 @@ The script generates various outputs, including:
 
 For any questions or issues, please contact Michael Connaughton at michaelconnaughton@rcsi.com.
 
----
-
-You can modify the contact information or any other specific details as necessary. This `README.md` provides a clear guide for users on how to use the script and understand its purpose.
